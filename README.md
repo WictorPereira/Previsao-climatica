@@ -1,4 +1,4 @@
-# Previsao do clima
+# Previsão Climatica
 
 Esta é uma página da web simples que permite aos usuários conferir informações sobre o clima de diferentes cidades. O projeto foi desenvolvido usando HTML, CSS e JavaScript, e faz uso da API OpenWeather para obter informações meteorológicas em tempo real.
 
