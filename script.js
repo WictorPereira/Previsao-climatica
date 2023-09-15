@@ -21,7 +21,7 @@ const getWeatherData = async(city) => {
 
     const res = await fetch (apiWeatherURL)
     if(!res.ok){
-        alert('Cidade nao encontrada!')
+        alert('Cidade não encontrada!')
     }
     const data = await res.json()
     return data
