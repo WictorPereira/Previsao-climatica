@@ -14,3 +14,5 @@ Esta é uma página da web simples que permite aos usuários conferir informaç�
 - **CSS3:** Responsável pelo estilo e layout da página.
 - **JavaScript (JS):** Usado para interações interativas, como a pesquisa de cidades e a exibição dinâmica de dados.
 - **API OpenWeather:** Uma API de terceiros usada para obter dados meteorológicos precisos.
+
+Acesse a pagina: https://wictorpereira.github.io/Previsao-climatica/
